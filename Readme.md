@@ -10,7 +10,7 @@ Once you start modifying the code, a new url should be generated just for your c
 
 1. Install dependencies:
 
-   `yarn install` or `npm install --force` (--force to avoid and error with peer dependencies)
+   `yarn install` or `npm install --force` (--force, to avoid an error with peer dependencies)
 
 2. Run the project:
 
